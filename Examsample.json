@@ -1,0 +1,23 @@
+{
+  "name":"Горбатов Тест",
+  "questlist":[
+    {
+      "type":"notanswerq",
+      "question":"добро пожаловать в супертест!"
+    },
+    {
+      "type":"singleq",
+      "question":"как дела, бро?",
+      "answer":"норм"
+    },
+    {
+      "type":"multiq",
+      "question":"выбрерите всех зайцев: \n a) заяц, б) медведь, в) заяц, г) дракон",
+      "answer":["а","в"]
+    },
+    {
+      "type":"notcheckedq",
+      "question":"и под конец эссе"
+    }
+  ]
+}
